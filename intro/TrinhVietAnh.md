@@ -1,0 +1,3 @@
+# Trịnh Việt Anh
+Student at the University of Greenwich Vietnam, Hanoi. Currently pursuing Bachelor of Science in Computing.
+Research area: Computer Vision, AI, ...
