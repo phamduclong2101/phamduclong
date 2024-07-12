@@ -1,3 +1,3 @@
-# TC_lab_members
-## Website 
-[https://sites.google.com/view/tc-lab-vn](https://sites.google.com/view/tc-lab-vn)
+# Hello, I'm Long
+# Welcome to my GitHUB
+## A student of Artificial Intelligence in FPT University (Vietnam)
